@@ -13,3 +13,5 @@ As a beginner, I learned the following javascript concepts while doing this tiny
 - Add CSS classes and IDs to elements to target and style promptly.
 
   Took minutes to summarize, but hours to complete the project, as the js concepts weren't kicking into my brain properly - BEGINNER RANTS :)
+
+NotSoFun Fact: Just don't look at my CSS file! It's crying in corner...
