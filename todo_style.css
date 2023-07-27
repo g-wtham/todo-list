@@ -1,0 +1,101 @@
+html,body {
+    background-color: #36393e;
+}
+
+.box {
+    border: 2px solid white;
+}
+
+button.deleteButton {
+    margin-left: 20px;
+    background-color: red;
+    color: white;
+}
+
+.liClass {
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 2vw;
+    padding: 3px;
+    margin: 3px;
+    width: 80vw;
+    max-width: 400px;
+    color: white;
+}
+
+.page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    border: 2px solid white;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1, h3 {
+    font-family: 'Roboto Slab', sans-serif;
+    margin: 10px;
+    font-size: 2vw;
+    color: white;
+}
+
+h1, h1-image {
+    font-size: 3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1-image {
+    margin-left: 10px;
+}
+
+h3 {
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.5;
+    margin-top: 5px;
+    border: 2.5px solid white;
+    padding: 9px;
+}
+
+input {
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 2vw;
+    padding: 10px;
+    margin-top: 10px;
+    width:120vw;
+    max-width: 400px;
+}
+
+button {
+    font-family: system-ui;
+    font-weight: bolder;
+    font-size: 2vw;
+    padding: 2px;
+    margin-top: 10px;
+    width: 15vw;
+    max-width: 400px;
+}
+
+button.deleteButton:hover {
+    background-color: white;
+    color: red;
+    font-weight: bolder;
+}
+
+#addButton{
+    background-color: green;
+    color: white;
+}
+
+#addButton:hover {
+    font-weight: bolder;
+    background-color: white;
+    color: green;
+}

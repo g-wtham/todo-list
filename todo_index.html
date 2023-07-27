@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="todo_style.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab">
+        <title>Todo List</title>
+    </head>
+    <body>
+        <div class="container">
+            <h1>
+                Todo List  <img src="checkmark_symbol.png" class="h1-image" width="40vw" height="40vw" align="center">
+            </h1>
+            <div class="page-container">
+                <h3>
+                    Tasks Count: <span id="taskCount"></span>
+                </h3>
+                <input type="text" id="taskInput" placeholder="Enter a new task...">
+                <button id="addButton">Add Task</button>
+                <ol id="taskList">
+                <!-- The list of tasks will be dynamically added here -->
+                </ol>
+            </div>
+        </div>
+        <script src="todo_app.js"></script>
+    </body>
+</html>
