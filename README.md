@@ -1,8 +1,8 @@
 # Todo List
 
-A Beginner's Flex project to showcase his javascript skills, which ain't called skills though, I guess, just some basic stuff hiding inside!
+A To-do list project, to store your task temporarily, yeah, your to-do list is gone once you hit that nice little REFRESH button on your browser!
 
-A To-do list website, to store your task temporarily, yeah, your to-do list is gone once you hit that nice little REFRESH button on your browser!
+A Beginner's Flex project to showcase his javascript skills, which ain't called skills though, I guess, just some basic stuff hiding inside!
 
 As a beginner, I learned the following javascript concepts while doing this tiny project :
 
